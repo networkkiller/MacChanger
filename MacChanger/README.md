@@ -9,5 +9,5 @@
 $ python main.py -i <interface> -m <new_mac>
 ```
 ## YouTube Video
-[<img src="./images/1.png" width="100%">](https://www.youtube.com/channel/UCcvI7QSyQ-6IgpSGiErsz "Python Mac Address Changer
+[<img src="./images/1.png" width="100%">](https://www.youtube.com/channel/UCcvI7QSyQ-6IgpSGiErszNg "Python Mac Address Changer
 ")
